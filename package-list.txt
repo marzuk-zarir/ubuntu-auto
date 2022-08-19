@@ -1,3 +1,5 @@
+oh-my-zsh
+omz plugins
 essential packages(yarn, nginx, ufw, git etc)
 docker and docker-compose
 gnome packages
